@@ -11,7 +11,6 @@
 <body>
 <h1 align="center">Welcome to Mithun Technologies.</h1>
 <h1 align="center">Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases...</h1>
-	<h1 align="center">We Teach plugins in jenkins and this is updated using webhooks</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
